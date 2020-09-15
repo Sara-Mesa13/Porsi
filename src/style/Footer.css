@@ -1,0 +1,29 @@
+.Footer {
+  font-family: 'Bree Serif', serif;
+  color: rgb(225, 199, 255);
+  background-color:rgb(182, 122, 122);;
+  margin-top: 50px;
+  }
+
+.col-6 {
+  color: rgb(8, 8, 8);
+  font-family: 'Bree Serif', serif;
+  margin-top: 25px;
+}
+
+.text {
+  color: rgb(8, 8, 8);
+  font-family: 'Bree Serif', serif;
+}
+
+.Logo3{
+  height: 30px;
+  width: 30px;
+}
+
+.Gerentes{
+  height: 100px; 
+  width: 100px;
+  border-radius: 50%;
+  margin-top: 25px;
+}

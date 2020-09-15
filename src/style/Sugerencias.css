@@ -1,0 +1,45 @@
+.TituloSuge{
+  font-family: 'Chewy', cursive;
+  color: #1900FF;
+  text-align: center;
+  margin-bottom: 70px;
+}
+
+.Elte{
+  font-size: 20px;
+
+}
+
+
+.Come{
+  width: 50%;
+  font-family: 'Bree Serif', serif;
+  display: block;
+  margin: auto;
+}
+
+.Flechis{
+  height: 20px;
+  width: 20px;
+  background-color: #FEE5FF;
+  border: #FEE5FF;
+  position: center;
+}
+
+.form-control2{
+
+  width: 200px;
+  height: 100px;
+  display:block;
+  margin: auto;
+  margin-bottom: 50px;
+  text-align: center;
+}
+.Prin{
+  text-align: center;
+}
+
+
+
+
+

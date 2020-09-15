@@ -1,0 +1,37 @@
+.TituloBuscar{
+  font-family: 'Chewy', cursive;
+  color: #1900FF;
+  text-align: center;
+  margin-bottom: 70px;
+}
+
+.CorreoE{
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+
+.BuscarM{
+  width: 50%;
+  font-family: 'Bree Serif', serif;
+  display: block;
+  margin: auto;
+  align-items: center;
+  display: flex;
+}
+
+.BusMa{
+  text-align: left;
+}
+
+.iconoUsuario{
+  background-color: #FEE5FF;
+  border: #FEE5FF;
+  text-align: right;
+  margin-bottom: 20px;
+}
+
+.icono{
+  width: 40px;
+  height: 45px;
+}
